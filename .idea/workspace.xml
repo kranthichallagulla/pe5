@@ -11,34 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/KeyValueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#303#318#0" expanded="true" />
-                <element signature="e#462#477#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/KeyValuePair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,13 +32,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/OccurenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/StringCount.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/MapTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/KeyValueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Class.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/KeyValuePair.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/KeyValueTest.java" />
       </list>
     </option>
   </component>
@@ -76,7 +49,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="833" />
@@ -150,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546517536426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546518361678" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../solid1,2/solidprinciple1" />
   </component>
   <component name="RunDashboard">
@@ -265,15 +238,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MapTest_test - 2019.01.03 at 16h 04m 46s.xml">
-      <configuration name="MapTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MapTest_test - 2019.01.03 at 16h 07m 48s.xml">
-      <configuration name="MapTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MapTest_test - 2019.01.03 at 16h 08m 02s.xml">
-      <configuration name="MapTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KeyValueTest_test - 2019.01.03 at 16h 48m 47s.xml">
       <configuration name="KeyValueTest.test" configurationId="JUnit" />
     </history-entry>
@@ -295,17 +259,25 @@
     <history-entry file="KeyValueTest_test - 2019.01.03 at 16h 56m 16s.xml">
       <configuration name="KeyValueTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="KeyValueTest_test - 2019.01.03 at 17h 39m 58s.xml">
+      <configuration name="KeyValueTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyValueTest_fail - 2019.01.03 at 17h 40m 41s.xml">
+      <configuration name="KeyValueTest.fail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyValueTest - 2019.01.03 at 17h 42m 19s.xml">
+      <configuration name="KeyValueTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49966374" weight="0.328877" />
@@ -313,7 +285,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.328877" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" visible="true" weight="0.328877" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966374" visible="true" weight="0.328877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,24 +424,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/KeyValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#318#0" expanded="true" />
+            <element signature="e#462#477#0" expanded="true" />
+            <element signature="e#675#690#0" expanded="true" />
+            <element signature="e#810#825#0" expanded="true" />
+            <element signature="e#675#690#0" expanded="true" />
+            <element signature="e#810#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/KeyValuePair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/KeyValueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#303#318#0" expanded="true" />
-            <element signature="e#462#477#0" expanded="true" />
           </folding>
         </state>
       </provider>
